@@ -21,5 +21,7 @@ This Power BI dashboard analyzes employee attrition data to uncover key trends b
 
 📁 **Project File**  
 Download the PBIX file directly from this repository.
+![Dashboard Screenshot](Dashboard_Screenshot.png)
+
 
 ---
